@@ -1,0 +1,21 @@
+{
+  "name": "atm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/chalk": "^2.2.0",
+    "@types/inquirer": "^9.0.6",
+    "atm": "^0.8.1",
+    "inquirer": "^9.2.11",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.2.2"
+  }
+}
